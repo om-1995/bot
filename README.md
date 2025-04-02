@@ -1,0 +1,2 @@
+# bot
+terms and condition
